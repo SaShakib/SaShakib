@@ -5,6 +5,74 @@
 Dhaka, Bangladesh · ⚙️ [Email](mailto:sashakib0401@gmail.com) · [LinkedIn](https://linkedin.com/in/sa-shakib6236) · [GitHub](https://github.com/SaShakib)
 
 ---
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+🧩 Microservices, REST APIs
+
+### 📡 Third-Party APIs
+
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
+![CometChat](https://img.shields.io/badge/CometChat-6200EA?logo=cometchat&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-D33A2C?logo=onesignal&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-0080FF?logo=sendgrid&logoColor=white)
+
+---
+
+### 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-blue?logo=testing-library&logoColor=white)
+
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
+
+### 🧱 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+### 🧱 Architecture & Patterns
+- System Design (HLD/LLD)  
+- Event-driven Architecture  
+- Kafka Messaging  
+- Design Patterns (OOP, SOLID, etc.)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ## 🧠 About Me
 
@@ -55,65 +123,6 @@ Between **2020–2022**, I led the development of full-stack platforms including
 In **2024**, I joined East West University as a Teaching Assistant, supporting AI coursework and EEG robotics research.  
 
 Most recently in **2025**, I built a high-scale appointment and video communication system at **Akbar Tech**, handling concurrency, regional timezones, and real-time notifications.
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
-### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-🧩 Microservices, REST APIs
-
-### 📡 Third-Party APIs
-Twilio, CometChat, OneSignal, SendGrid
-
-### 🧪 Testing
-- **Unit & Integration**: Jest  
-- **E2E Testing**: Cypress, Puppeteer  
-- **API Testing**: Postman  
-- **Testing Style**: TDD (Test Driven Development)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
-
-### 🧱 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-### 🧱 Architecture & Patterns
-- System Design (HLD/LLD)  
-- Event-driven Architecture  
-- Kafka Messaging  
-- Design Patterns (OOP, SOLID, etc.)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
 ## 📚 Education
