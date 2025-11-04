@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Sa Shakib
+# 👋 Hi, I’m Shakib
 
-*Senior Backend Engineer | Full‑Stack Developer*
+*Senior Software Engineer | Full‑Stack Developer | MERN Stack Developer*
 
 Dhaka, Bangladesh · ⚙️ [Email](mailto:sashakib0401@gmail.com) · [LinkedIn](https://linkedin.com/in/sa-shakib6236) · [GitHub](https://github.com/SaShakib)
 
