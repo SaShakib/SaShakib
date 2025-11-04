@@ -100,20 +100,20 @@ Currently, I specialize in **scalable backend systems** and recently completed a
 ## 🗓️ 7-Year Work Experience Timeline (2018–2025)
 
 | **Years**        | **Role**                           | **Company / Project**        | **Highlights**                                                                 |
-|------------------|------------------------------------|-------------------------------|--------------------------------------------------------------------------------|
-| 2018 – 2020      | 🧑‍🏫 Trainer / Junior Developer     | Insabn (Co-Founder)           | Mentored devs, hosted seminars, built client projects in PHP, JS              |
-| 2020 – 2022      | 🧠 Lead Software Engineer           | Insabn (Co-Founder)           | Led product builds: Waliey, RobiNewsBD, HungrySmile POS                       |
+|------------------|------------------------------------|--------------------------------|--------------------------------------------------------------------------------|
+| 2018 – 2020      | 🧑‍🏫 Trainer / Junior Developer   | Insabn                       | Mentored devs, hosted seminars, built client projects in PHP, JS              |
+| 2020 – 2022      | 🧠 Lead Software Engineer         | Insabn                       | Led product builds: Waliey, RobiNewsBD, HungrySmile POS                       |
 |                  |                                    | 🚀 Waliey                     | Geo-based marketplace, 50+ retail shops onboarded (MERN)                     |
 |                  |                                    | 📰 RobiNewsBD                 | SEO-first local news portal, <2s load time, thousands of users               |
-|                  |                                    | 🍽️ HungrySmile POS           | POS system with inventory, analytics, reports (Laravel + React)              |
-| 2024 – Present   | 🎓 Teaching Assistant (AI)          | East West University          | Assisted 100+ students in AI labs and EEG-based robotics research            |
-| Jan – Jun 2025   | 🧑‍💻 Sr. Backend Engineer (Contract) | Akbar Tech                    | Built scalable communication & booking platform (10k+ users, multi-timezone) |
+|                  |                                    | 🍽️ HungrySmile POS            | POS system with inventory, analytics, reports (Laravel + React)              |
+| 2024 – Present   | 🎓 Teaching Assistant (AI)         | East West University         | Assisted 100+ students in AI labs and EEG-based robotics research             |
+| Jan – Jun 2025   | 🧑‍💻 Sr. Backend Engineer (Contract) | Akbar Tech                  | Built scalable communication & booking platform (10k+ users, multi-timezone) |
 
 ---
 
 ## 🧭 Career Summary
 
-I’ve been professionally active since **2018**, starting with founding **Insabn**, a software services company. Early on, I mentored aspiring developers and delivered small-scale projects.  
+I’ve been professionally active since **2018**, starting with Full Stack Developer at **Insabn**, a software services company. Early on, I mentored aspiring developers and delivered small-scale projects.  
 
 Between **2020–2022**, I led the development of full-stack platforms including:  
 - **Waliey** – a geo-retail marketplace for 50+ physical stores  
@@ -128,7 +128,7 @@ Most recently in **2025**, I built a high-scale appointment and video communicat
 ## 📚 Education
 
 **B.Sc. in Computer Science & Engineering**  
-East West University, Dhaka (2018–2024) · CGPA 3.68 · 2× full scholarship
+East West University, Dhaka (2018–2024) · CGPA 3.66 · 2× full scholarship
 
 ---
 
